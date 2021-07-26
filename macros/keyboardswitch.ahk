@@ -1,4 +1,4 @@
-jk::
+os::
 if WinExist(ahk_class "GVIM")
   WinActivate
   Send, !+
