@@ -23,13 +23,13 @@ if getchar() != ']'
 	let check2 = 0
 endif
 if check1 == 1
-	inoremap <BS> <left><BS><BS>
+	inoremap <BS> <right><BS><BS>
 endif
 if check2 == 0
 	inoremap <BS> <BS>
 if check2 == 1
-	inoremap <BS> <left><BS><BS>
+	inoremap <BS> <right><BS><BS>
 endif
 if check1 == 0
-	inoremap <BS> <left><BS><BS>
+	inoremap <BS> <right><BS><BS>
 endif
