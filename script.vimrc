@@ -1,4 +1,5 @@
 colorscheme Murphy
+noremap jk <esc>
 inoremap { {<esc>a}<left>
 inoremap [ [<esc>a]<left>
 inoremap ( (<esc>a)<left>
