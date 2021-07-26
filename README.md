@@ -1,5 +1,6 @@
 # GODVIM
 best vim plugin
 
-designed for c/c++ editing
-based off of vscode editing
+## Designed for c/c++ editing and similar to the style of vscode
+<br>
+IDK if this works sooo  ¯\_(ツ)_/¯
